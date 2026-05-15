@@ -1,0 +1,2 @@
+Date,Patient Name,Age,Gender,Predicted Disease,Confidence,Risk Level,Recommendation
+2026-05-07 21:05:38,chirag,30,Male,Kidney Disease,39.0,High,Immediate doctor consultation required
