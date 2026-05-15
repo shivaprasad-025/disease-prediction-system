@@ -164,16 +164,7 @@ streamlit run app.py
 
 ---
 
-## 👨‍💻 Author
 
-**Chirag BP**
-
-Information Science Engineering Student  
-Machine Learning | Data Science | Software Development
-
-LinkedIn: https://www.linkedin.com/in/chirag-b-p-aa5048377/
-
-GitHub: https://github.com/chirag-bp
 
 ---
 
